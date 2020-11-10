@@ -1,0 +1,2 @@
+# BattlegroundsSim
+Hearthstone Battlegrounds Simulator
